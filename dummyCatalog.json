@@ -1,0 +1,150 @@
+{
+  "dailyNest": {
+    "id": "7D9E1797-3DA8-4F8F-A5F9-2D1A7C781111",
+    "title": "Impulses",
+    "description": "A short meditation to reconnect with your body’s impulses.",
+    "audioUrl": "https://example.com/audio/impulses.mp3",
+    "imageUrl": "https://raw.githubusercontent.com/maxime-day/MeditationStorage/refs/heads/main/DailyNestBackground.png",
+    "duration": 360.0,
+    "isPremium": true,
+    "createdAt": "2025-07-01T10:00:00Z"
+  },
+  "categories": [
+    {
+      "id": "C1",
+      "title": "Mindful Mornings",
+      "description": "Start your day with clarity and energy.",
+      "imageUrl": "https://example.com/images/cat-morning.jpg",
+      "tintColorHex": "#FFA500",
+      "createdAt": "2025-06-28T10:00:00Z",
+      "courses": [
+        {
+          "id": "C1-C1",
+          "title": "Awaken",
+          "description": "A morning journey into awareness and breath.",
+          "imageUrl": "https://example.com/images/course-awaken.jpg",
+          "createdAt": "2025-06-28T11:00:00Z",
+          "sessions": [
+            {
+              "id": "S1",
+              "title": "First Light",
+              "description": "A gentle start with mindful breathing.",
+              "audioUrl": "https://example.com/audio/first-light.mp3",
+              "imageUrl": "DailyNestBackground",
+              "duration": 300.0,
+              "isPremium": false,
+              "createdAt": "2025-07-01T06:30:00Z"
+            },
+            {
+              "id": "S2",
+              "title": "Clarity Rise",
+              "description": "Sharpen your focus before the day unfolds.",
+              "audioUrl": "https://example.com/audio/clarity-rise.mp3",
+              "imageUrl": "DailyNestBackground",
+              "duration": 360.0,
+              "isPremium": true,
+              "createdAt": "2025-07-01T07:00:00Z"
+            }
+          ]
+        },
+        {
+          "id": "C1-C2",
+          "title": "Breathe In",
+          "description": "Reconnect with your breath every morning.",
+          "imageUrl": "https://example.com/images/course-breathe.jpg",
+          "createdAt": "2025-06-29T07:00:00Z",
+          "sessions": [
+            {
+              "id": "S3",
+              "title": "Stillness",
+              "description": "Cultivate inner peace through deep breath.",
+              "audioUrl": "https://example.com/audio/stillness.mp3",
+              "imageUrl": "DailyNestBackground",
+              "duration": 420.0,
+              "isPremium": true,
+              "createdAt": "2025-07-01T08:00:00Z"
+            },
+            {
+              "id": "S4",
+              "title": "Gentle Energy",
+              "description": "Bring light energy into your body and mind.",
+              "audioUrl": "https://example.com/audio/gentle-energy.mp3",
+              "imageUrl": "DailyNestBackground",
+              "duration": 390.0,
+              "isPremium": false,
+              "createdAt": "2025-07-01T08:30:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C2",
+      "title": "Focus & Flow",
+      "description": "Midday sessions to stay balanced and productive.",
+      "imageUrl": "https://example.com/images/cat-focus.jpg",
+      "tintColorHex": "#00CED1",
+      "createdAt": "2025-06-30T09:00:00Z",
+      "courses": [
+        {
+          "id": "C2-C1",
+          "title": "Midday Reset",
+          "description": "Center yourself with a mindful break.",
+          "imageUrl": "https://example.com/images/course-reset.jpg",
+          "createdAt": "2025-06-30T09:30:00Z",
+          "sessions": [
+            {
+              "id": "S5",
+              "title": "Pause & Breathe",
+              "description": "Release tension and refresh your mind.",
+              "audioUrl": "https://example.com/audio/pause-breathe.mp3",
+              "imageUrl": "DailyNestBackground",
+              "duration": 330.0,
+              "isPremium": false,
+              "createdAt": "2025-07-01T11:30:00Z"
+            },
+            {
+              "id": "S6",
+              "title": "Mental Clarity",
+              "description": "Silence the noise and refocus with ease.",
+              "audioUrl": "https://example.com/audio/mental-clarity.mp3",
+              "imageUrl": "DailyNestBackground",
+              "duration": 400.0,
+              "isPremium": true,
+              "createdAt": "2025-07-01T12:00:00Z"
+            }
+          ]
+        },
+        {
+          "id": "C2-C2",
+          "title": "Flow State",
+          "description": "Enter deep concentration effortlessly.",
+          "imageUrl": "https://example.com/images/course-flow.jpg",
+          "createdAt": "2025-06-30T10:00:00Z",
+          "sessions": [
+            {
+              "id": "S7",
+              "title": "Focus Activation",
+              "description": "Tune your attention to the present.",
+              "audioUrl": "https://example.com/audio/focus-activation.mp3",
+              "imageUrl": "DailyNestBackground",
+              "duration": 370.0,
+              "isPremium": true,
+              "createdAt": "2025-07-01T12:30:00Z"
+            },
+            {
+              "id": "S8",
+              "title": "Deep Flow",
+              "description": "Stay in the zone with this grounding meditation.",
+              "audioUrl": "https://example.com/audio/deep-flow.mp3",
+              "imageUrl": "DailyNestBackground",
+              "duration": 450.0,
+              "isPremium": false,
+              "createdAt": "2025-07-01T13:00:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
