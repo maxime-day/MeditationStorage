@@ -19,7 +19,7 @@
           "title": "Impulses",
           "description": "A short meditation to reconnect with your body’s impulses.",
           "audioUrl": "https://example.com/audio/impulses.mp3",
-          "imageUrl": "https://github.com/maxime-day/MeditationStorage/blob/main/DailyNest.pdf",
+          "imageUrl": "https://raw.githubusercontent.com/maxime-day/MeditationStorage/main/DailyNest.pdf",
           "duration": 360.0,
           "isFavorite": false,
           "isPremium": true,
